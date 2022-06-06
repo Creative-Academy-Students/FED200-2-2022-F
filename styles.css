@@ -1,6 +1,8 @@
 @import "sections/header/styles.css";
 @import "sections/hero/styles.css";
 @import "sections/properties/styles.css";
+@import "sections/header/styles.css";
+@import "components/button/style.css";
 
 * {
     box-sizing: border-box;
