@@ -86,4 +86,6 @@
   }
 
 
-  
+  .title__image {
+    border-radius: 10%;
+  }
