@@ -88,4 +88,23 @@
 
   .title__image {
     border-radius: 10%;
+    height: 300px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
   }
+
+  .intro__tag {
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 00;
+  }
+
+  .history {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+

@@ -1,11 +1,3 @@
-.hero {
-    background: green
-}
-
-.hero__title {
-    color: red;
-}
-
-.hero__button {
-    background: purple
+.header {
+    font-family: 'Lato', sans-serif;
 }
