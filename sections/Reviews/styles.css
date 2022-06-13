@@ -13,14 +13,34 @@
 .wrapper .item{
     min-width: 410px;
     height: 390px;
-    line-height: 410px;
+    line-height: 40px;
+    
     text-align: center;
+    
     background-color: #ddd;
     margin-right: 20px;
     border-radius: 20px;
+  
 
-    
-    
+}
 
+.image {
+
+width: 120px;
+height: 120px;
+border-radius: 100px
+
+}
+
+
+
+blockquote{
+    color: gray; 
+    font-style: oblique;
+}
+ 
+p2{
+    color: rgb(4, 50, 78);
+    font-style: oblique;
 }
 
