@@ -1,6 +1,7 @@
 .wrapper{
     max-height: 410px;
-    border: 1px solid #ddd;
+    border: 0
+    px solid gray;
     display: flex;
     overflow-x: auto;
 }
@@ -44,3 +45,35 @@ p2{
     font-style: oblique;
 }
 
+
+h1{
+    color:rgb(4, 50, 78);
+    
+  }
+
+h3{
+    color:rgb(4, 50, 78);
+    
+    
+}
+  
+  
+
+p{
+    color:rgb(4, 50, 78);
+   
+    
+}
+
+
+
+.arhef{
+    color:#3d6cb9;
+    
+}
+
+body {
+    font-family: system-ui;
+    background-color: rgb(171, 178, 185);
+  text-align: center;
+}

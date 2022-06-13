@@ -3,6 +3,12 @@
 @import "sections/properties/styles.css";
 @import "sections/header/styles.css";
 @import "components/button/style.css";
+@import "sections/widgets/styles.css";
+<div> 
+@import "sections/agents/styles.css";
+
+
+
 
 * {
     box-sizing: border-box;
