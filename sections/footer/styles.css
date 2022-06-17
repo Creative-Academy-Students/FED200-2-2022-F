@@ -1,11 +1,16 @@
 .hero {
-    background: green
+    background: rgb(255, 255, 255)
 }
 
-.hero__title {
-    color: red;
+.sub-header {
+    font-size: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.hero__button {
-    background: purple
+.partners {
+    opacity: 0.1;
+}
+
+.partners__1 {
+    opacity: 0.5;
 }

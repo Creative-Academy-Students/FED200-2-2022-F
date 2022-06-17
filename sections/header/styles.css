@@ -85,6 +85,10 @@
     opacity: 0.8;
   }
 
+  .title {
+    display: flex;
+    margin: 1.2rem;
+  }
 
   .title__image {
     border-radius: 10%;
@@ -100,11 +104,67 @@
     font-family: 'Lato', sans-serif;
     font-size: 2.5rem;
     font-weight: 00;
+    color:rgb(0, 31, 66);
   }
 
+
   .history {
+    font-size: 1.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(4, 50, 78);
+  }
+
+  @media (min-width: 600px) {
+    .details {
+      flex-direction: row;
+      align-items: center;
+    }
+  }
+
+  .details {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+  .details__location {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
 
+  .details__city {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .details__budget {
+    display: flex;
+    flex-direction: column;
+  }
+
+
+  .April {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(4, 50, 78);
+  }
+
+  @media (min-width: 600px) {
+    .properties {
+      flex-direction: row;
+      align-items: center;
+    }
+  }
+
+  .properties {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .group1 {
+    display: flex;
+    flex-direction: row;
+  }

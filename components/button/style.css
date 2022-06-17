@@ -1,7 +1,7 @@
 .button {
-    background: none;
-    border: 1px solid rgba(252, 120, 80, 1);
-    color: rgba(252, 120, 80, 1);
+    background: rgba(40, 27, 114, 0.8);
+    border: none;
+    color: rgb(255, 255, 255);
     cursor: pointer;
     padding: 0.75rem 1.5rem;
     border-radius: 6px;
@@ -10,7 +10,7 @@
 }
 
 .button:hover {
-    background: rgba(252, 120, 80, 0.2);
+    background: rgba(73, 50, 207, 0.8);
 }
 
 .button_importance-primary {
